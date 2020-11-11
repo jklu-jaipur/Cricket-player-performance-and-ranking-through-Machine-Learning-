@@ -6,7 +6,7 @@ Machine learning is very helpful in getting the possible outcomes of the event h
 
 Project by:- <br>
 Guided by: Dr. Alok Kumar. <br>
-Team members-
+Team members- <br>
 Harsh Udai, Rishabh Singhal, Yash Goyal & Sushil Kumar Dubey.
 
 
